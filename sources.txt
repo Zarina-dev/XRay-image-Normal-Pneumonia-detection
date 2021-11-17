@@ -1,0 +1,10 @@
+
+dataset from kaggle:
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+-------------------------------------------------------------
+
+added extra NORMAL XRAY data in order to deal with disbalancing:
+
+https://data.mendeley.com/datasets/jctsfj2sfn/1
