@@ -1,7 +1,7 @@
 # XRay-image-Normal-Pneumonia-detection
-Pnuemonia Normal detection by using XRay images. Got image datas from kaggle(link is given in sources.txt file) also normal xray images from other site (also link is given) in order to avoid data disbalancing.
+Pnuemonia Normal detection by using XRay images. 
 
-you can start reading in this order:
+You can start reading the project in this order:
 
 1) [ data_prepare.py ] Data preparation ( jpg/png formal --> numpy array)..
 2) [ model_build.py  ] Building Artificial Neural Network , training, testing 
@@ -11,4 +11,4 @@ you can start reading in this order:
                     ==> [ plot_calid_predicted(2).png                  ]
                     
 * [ requirements.txt]
-* [ sources.txt     ] links to the sites from which I used image datas
+* [ sources.txt     ] links to the sites from which I used image datas -> Got image datas from kaggle(link is given in sources.txt file) also normal xray images from other site (also link is given) in order to avoid data disbalancing.
